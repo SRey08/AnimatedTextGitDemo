@@ -3,11 +3,11 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: orchid;
+    background-color: paleturquoise;
 }
 
 h1 {
-    font-size: 13rem;
+    font-size: 14rem;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
